@@ -1,5 +1,5 @@
 # 💫 About Me:
-Danilo Aquino 🙅🏾‍♂️<br><br>Java, JavaScript e C#
+Danilo Aquino <br><br>Java, JavaScript e C#
 
 
 ## 🌐 Socials:

@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+![snake gif](https://github.com/Aquinooo/Aquinooo/blob/output/github-contribution-grid-snake.gif)
+
 Danilo Aquino <br><br>.NET | C# | ASP .NET Core MVC | Entity Framework | Angular | MongoDB | MS SQL SERVER | Git e GITHUB
 
 

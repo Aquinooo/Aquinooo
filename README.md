@@ -63,3 +63,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Aquinooo/Aquinooo/output/snake.svg" alt="Snake animation" />
+
+###

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Danilo Aquino <br><br>.NET | C# | ASP .NET Core | Entity Framework | Angular | MongoDB | Git e GITHUB
+Danilo Aquino <br><br>.NET | C# | ASP .NET Core MVC | Entity Framework | Angular | MongoDB | MS SQL SERVER | Git e GITHUB
 
 
 ## 🌐 Socials:

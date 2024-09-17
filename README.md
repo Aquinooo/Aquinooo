@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Programador .NET<br>- Estudante<br>- Competidor de JiuJitsu pela federeção brasileira (CBJJE)<br>- Aficionado por jogos e esportes</p>
+<p align="left">- Programador .NET<br></p>
 
 ###
 
